@@ -9,6 +9,7 @@ body {
     background-color: #e8f5ff;
     font-family: Arial;
     overflow: hidden;
+
 }
 
 /* NavbarTop */
@@ -69,12 +70,14 @@ body {
     position: absolute;
     top: 70px;
     width: 250px;
+    
 }
 
 .profile {
     margin-bottom: 20px;
     margin-top: -12px;
     text-align: center;
+    
 }
 
 .profile img {
